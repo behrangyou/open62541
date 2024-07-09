@@ -131,3 +131,8 @@ path = "examples/server_builder.rs"
 [[example]]
 name = "server_data_source"
 path = "examples/server_data_source.rs"
+
+
+[[example]]
+name = "cpu_temperature_data_source"
+path = "examples/cpu_temperature_data_source.rs"
